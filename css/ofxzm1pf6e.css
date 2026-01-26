@@ -1,0 +1,56 @@
+#rec605582416 .t396__artboard {
+    height: 150px;
+    background-color: #000
+}
+
+#rec605582416 .t396__filter {
+    height: 150px
+}
+
+#rec605582416 .t396__carrier {
+    height: 150px;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+@media screen and (max-width: 1199px) {
+    #rec605582416 .t396__artboard, #rec605582416 .t396__carrier, #rec605582416 .t396__filter {
+        height: 150px
+    }
+
+    #rec605582416 .t396__carrier {
+        background-attachment: scroll
+    }
+}
+
+@media screen and (max-width: 959px) {
+    #rec605582416 .t396__artboard, #rec605582416 .t396__carrier, #rec605582416 .t396__filter {
+        height: 103px
+    }
+
+    #rec605582416 .t396__carrier {
+        background-attachment: scroll
+    }
+}
+
+@media screen and (max-width: 639px) {
+    #rec605582416 .t396__artboard, #rec605582416 .t396__carrier, #rec605582416 .t396__filter {
+        height: 103px
+    }
+
+    #rec605582416 .t396__carrier {
+        background-attachment: scroll
+    }
+}
+
+@media screen and (max-width: 479px) {
+    #rec605582416 .t396__artboard, #rec605582416 .t396__carrier, #rec605582416 .t396__filter {
+        height: 103px
+    }
+
+    #rec605582416 .t396__carrier {
+        background-attachment: scroll
+    }
+}
